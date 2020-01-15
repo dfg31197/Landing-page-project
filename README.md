@@ -1,13 +1,8 @@
 # Landing Page Project
 
-## Table of Contents
+## Description
+Simple landing page made in Vanilla JS. Added IntersectionObserver API to make it more interactable
 
-* [Instructions](#instructions)
+## How to run
+Open index.html file in your favorite browser to start. Internet connection required for fonts.
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
